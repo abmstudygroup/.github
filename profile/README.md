@@ -4,7 +4,7 @@
 
 👋 Welcome to the Agent-Based Modeling Study Group!
 
-We are a study group based at the University of São Paulo ([USP](https://www5.usp.br/)), dedicated to exploring and applying Agent-Based Models (ABMs) as tools for understanding complex systems in a variety of scientific fields.
+We are a study group based at the University of São Paulo ([USP](https://www5.usp.br/)), dedicated to exploring and applying Agent-Based Models ([ABMs](https://en.wikipedia.org/wiki/Agent-based_model)) as tools for understanding complex systems in a variety of scientific fields.
 
 Our work is guided by three core principles:
 
@@ -15,3 +15,23 @@ Our work is guided by three core principles:
 Join us in exploring ABMs and their role in understanding and addressing complex challenges.
 
 For more information, visit our [Linktree](https://linktr.ee/abmstudygroup) or contact us at [abmstudygroup@gmail.com](mailto:abmstudygroup@gmail.com).
+
+<table>
+  <tr>
+    <td width="30%">
+      <br/>
+      <br/>
+      <p align="center">
+        <a href="https://www.fsp.usp.br/sustentarea/">
+          <img src="images/sustentarea-logo.svg" width="125"/>
+        </a>
+      </p>
+      <br/>
+    </td>
+    <td width="70%">
+      <p>
+        The ABM Study Group was originally developed within the <a href="https://www.fsp.usp.br/sustentarea/">Sustentarea</a> Research and Extension Center at the University of São Paulo (<a href="https://www5.usp.br/">USP</a>), which continues to support its activities.
+      </p>
+    </td>
+  </tr>
+</table>
