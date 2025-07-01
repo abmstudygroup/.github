@@ -12,9 +12,7 @@ Our work is guided by three core principles:
 - **Interdisciplinarity**: We believe that combining insights from different fields is essential to enrich how we discuss and apply ABMs.
 - **Horizontality**: We believe in self-managing as a group and producing clear, accessible content that avoids unnecessary jargon or barriers, while maintaining strong scientific rigor.
 
-Join us in exploring ABMs and their role in understanding and addressing complex challenges.
-
-For more information, visit our [Linktree](https://linktr.ee/abmstudygroup) or contact us at [abmstudygroup@gmail.com](mailto:abmstudygroup@gmail.com).
+[Join us](https://github.com/orgs/abmstudygroup/discussions/2) in exploring ABMs and their role in understanding and addressing complex challenges.
 
 <table>
   <tr>
